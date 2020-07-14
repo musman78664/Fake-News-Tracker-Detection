@@ -1,1 +1,1 @@
-web: gunicorn 06_Flask.app:app
+web: gunicorn app:app --log-file=-
