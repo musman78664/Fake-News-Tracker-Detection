@@ -28,7 +28,7 @@ Back end database:  SQL Database <br />
 Front end:  HTML, CSS, JavaScript <br />
 Connecting front end and back end:  Python <br />
 Charts:  JavaScript Libraries (Plotly)<br />
-Deploying Application:  Heroku & GitHub Pages
+Deploying Application:  Heroku & GitHub Pages & AWS EC2 Instances
 
 
 ## Team Members
