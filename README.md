@@ -39,3 +39,27 @@ Deploying Application:  Via Heroku
 
 ## Team Members
 Travis, Daniel, Rolando, Usman, Blanca
+
+
+
+
+
+
+
+Defining Fake News:
+Finding fake news articles has some obstacle, after careful research into the project we 
+found that there are many categories which misinformation will fall into.  The articles that 
+are completely false, articles that have provided a truthful event information but then make 
+false interpretations, or articles will just have opinion disguised as news, or there are 
+articles which are from tweets and quotes from other people.
+
+
+
+Conclusion / More time giving:
+If we had more time, will research using John Snow to build a Spark ML pipeline , build an 
+application which will read the database and get the NLP prediction and classification, also 
+build a text scraper which can scape a news articles and predict if it true or false base on 
+the headline and body text.
+
+
+
