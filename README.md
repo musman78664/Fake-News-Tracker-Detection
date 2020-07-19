@@ -3,7 +3,7 @@
 
 ### App Link
 
-https://fake-news-ml.herokuapp.com/
+https://fake-news-deploy.herokuapp.com/
 
 
 ## Project Overview
@@ -34,7 +34,7 @@ Back end database:  SQL Database <br />
 Front end:  HTML, CSS, JavaScript <br />
 Connecting front end and back end:  Python <br />
 Charts:  JavaScript Libraries (Plotly)<br />
-Deploying Application:  Heroku & GitHub Pages
+Deploying Application:  Via Heroku
 
 
 ## Team Members
