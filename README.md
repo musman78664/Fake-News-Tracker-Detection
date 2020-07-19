@@ -1,5 +1,11 @@
 # Fake News Tracker / Detection
 
+
+### App Link
+
+https://fake-news-ml.herokuapp.com/
+
+
 ## Project Overview
 Our topic is to analysis of fake news articles which recently has become a tremendous attention in 
 the news media outlets.  We will be comparing websites against lists of labeled fake news 
