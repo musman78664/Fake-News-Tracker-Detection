@@ -1,4 +1,4 @@
-# Fake News Tracker / Detection
+# Fake News Detection
 
 
 ### App Link
@@ -15,7 +15,7 @@ sources.
 
 
 ## Our Hypothesis 
-We want to develop a machine learning Model / Program which will identify from the news source which is or 
+We want to develop a machine learning Model which will identify from the news source which is or 
 are producing fake news.  We will build a classifier which will detect or make decisions about the 
 information that were given in the news articles, we will be using multiple sources.<br />
 
