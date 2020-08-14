@@ -1,7 +1,7 @@
 # Fake News Detection
 
 
-### App Link
+### Heroku App Link
 
 https://fake-news-deploy.herokuapp.com/
 
@@ -34,7 +34,7 @@ Back end database:  SQL Database <br />
 Front end:  HTML, CSS, JavaScript <br />
 Connecting front end and back end:  Python <br />
 Charts:  JavaScript Libraries (Plotly)<br />
-Deploying Application:  Via Heroku
+Deploying Application:  Via Heroku & AWS 
 
 
 ## Team Members
